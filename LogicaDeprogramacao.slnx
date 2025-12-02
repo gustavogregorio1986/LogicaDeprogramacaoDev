@@ -2,4 +2,6 @@
   <Project Path="Estudo/Estudo.csproj" />
   <Project Path="Estudo0/Estudo0.csproj" />
   <Project Path="Estudo00/Estudo00.csproj" />
+  <Project Path="Estudo01/Estudo01.csproj" />
+  <Project Path="Estudo1/Estudo1.csproj" />
 </Solution>
