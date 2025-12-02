@@ -8,4 +8,5 @@
   <Project Path="Estudo1/Estudo1.csproj" />
   <Project Path="Estudo2/Estudo2.csproj" />
   <Project Path="Estudo3/Estudo3.csproj" />
+  <Project Path="Estudo4/Estudo4.csproj" />
 </Solution>
